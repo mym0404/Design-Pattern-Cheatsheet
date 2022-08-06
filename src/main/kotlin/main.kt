@@ -1,25 +1,18 @@
-import behavioral.observer.IntegerObserver
-import behavioral.observer.IntegerSubject
-import behavioral.observer.SimpleHashMapEvenIntegerObserverMediator
+import behavioral.command.Button
+import behavioral.command.DocumentOpener
+import behavioral.command.OpenDocumentCommand
 
 fun main() {
-    val mediator = SimpleHashMapEvenIntegerObserverMediator()
-    val subject = IntegerSubject(mediator, 1)
-    val observer = IntegerObserver(99)
+    val opener = DocumentOpener()
+    val command = OpenDocumentCommand(opener)
 
-    subject.attach(observer)
+    val invoker = Button().apply {
+        onClickListener = {
+            command.execute()
+        }
+    }
 
-    subject.value = 5
+    invoker.click()
 
-    assert(observer.value == 99)
-
-    subject.value = 4
-
-    assert(observer.value == 4)
-
-    subject.detach(observer)
-
-    subject.value = 2
-
-    assert(observer.value == 4)
+    invoker.onClickListener = null
 }

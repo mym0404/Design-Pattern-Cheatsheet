@@ -25,10 +25,10 @@
 - [ ] Flyweight
 - [ ] Proxy
 
-## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/18)
+## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/26)
 
 - [ ] Chain of Responsibility
-- [ ] Command
+- [x] [Command](https://blog.naver.com/mym0404/222841601512)
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
