@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/33388801/183260904-1da89fdf-4995-4d7c-8c01-dca6db622353.jpg" width="600"/>
+
 # Design Pattern Cheatsheet
 
 ## Basic ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
