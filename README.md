@@ -15,12 +15,12 @@
 - [ ] Prototype
 - [ ] Singleton
 
-## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
+## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/28)
 
 - [ ] Adapter
 - [ ] Bridge
 - [x] [Composite](https://blog.naver.com/mym0404/222840888281)
-- [ ] Decorator
+- [x] [Decorator](https://blog.naver.com/mym0404/222841827633)
 - [ ] Facade
 - [ ] Flyweight
 - [ ] Proxy
