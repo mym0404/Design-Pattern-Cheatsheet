@@ -1,7 +1,5 @@
-import behavioral.flyweight.flyweight
-import creational.singleton.singleton
-import structural.facade.facade
+import creational.prototype.prototype
 
 fun main() {
-    singleton()
+    prototype()
 }
