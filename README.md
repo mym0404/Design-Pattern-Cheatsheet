@@ -15,7 +15,7 @@
 - [ ] Prototype
 - [ ] Singleton
 
-## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/28)
+## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/42)
 
 - [ ] Adapter
 - [ ] Bridge
