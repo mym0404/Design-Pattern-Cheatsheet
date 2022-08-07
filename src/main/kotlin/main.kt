@@ -1,5 +1,5 @@
-import creational.prototype.prototype
+import creational.abstractfactory.abstractFactory
 
 fun main() {
-    prototype()
+    abstractFactory()
 }
