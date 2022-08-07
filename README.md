@@ -7,15 +7,15 @@
 - [ ] Introduction
 - [x] [UML Class Diagram](https://blog.naver.com/mym0404/222840876463)
 
-## Creational ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+## Creational ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
 
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Factory Method
 - [ ] Prototype
-- [ ] Singleton
+- [x] Singleton
 
-## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/42)
+## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)
 
 - [ ] Adapter
 - [ ] Bridge
