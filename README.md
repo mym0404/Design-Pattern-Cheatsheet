@@ -13,7 +13,7 @@
 - [ ] Builder
 - [ ] Factory Method
 - [ ] Prototype
-- [x] Singleton
+- [x] [Singleton](https://blog.naver.com/mym0404/222842411627)
 
 ## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)
 
