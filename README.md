@@ -22,7 +22,7 @@
 - [x] [Composite](https://blog.naver.com/mym0404/222840888281)
 - [x] [Decorator](https://blog.naver.com/mym0404/222841827633)
 - [x] [Facade](https://blog.naver.com/mym0404/222841842528)
-- [ ] Flyweight
+- [x] [Flyweight](https://blog.naver.com/mym0404/222841950503)
 - [ ] Proxy
 
 ## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/26)
