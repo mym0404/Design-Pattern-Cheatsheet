@@ -7,4 +7,5 @@ fun prototype() {
     GraphicTool(MusicalNote()).run {
         manipulate()
     }
+    val a: StringBuilder
 }
