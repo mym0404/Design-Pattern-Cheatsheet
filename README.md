@@ -7,13 +7,13 @@
 - [ ] Introduction
 - [x] [UML Class Diagram](https://blog.naver.com/mym0404/222840876463)
 
-## Creational ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/83)
+## Creational ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 - [x] [What is Creational Pattern](https://blog.naver.com/mym0404/222844233403)
 
 - [x] [Abstract Factory](https://blog.naver.com/mym0404/222842458367)
 - [x] [Builder](https://blog.naver.com/mym0404/222844271451)
-- [ ] Factory Method
+- [x] [Factory Method](https://blog.naver.com/mym0404/222844357913)
 - [x] [Prototype](https://blog.naver.com/mym0404/222842448782)
 - [x] [Singleton](https://blog.naver.com/mym0404/222842411627)
 

@@ -1,5 +1,5 @@
-import creational.builder.builder
+import creational.factorymethod.factoryMethod
 
 fun main() {
-    builder()
+    factoryMethod()
 }
