@@ -17,9 +17,9 @@
 - [x] [Prototype](https://blog.naver.com/mym0404/222842448782)
 - [x] [Singleton](https://blog.naver.com/mym0404/222842411627)
 
-## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/62)
 
-- [ ] What is Structural Pattern
+- [x] [What is Structural Pattern](https://blog.naver.com/mym0404/222846151743)
 
 - [ ] Adapter
 - [ ] Bridge
