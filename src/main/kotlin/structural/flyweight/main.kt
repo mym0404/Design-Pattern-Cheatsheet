@@ -1,4 +1,4 @@
-package behavioral.flyweight
+package structural.flyweight
 
 fun flyweight() {
     val factory = BulletFactory()

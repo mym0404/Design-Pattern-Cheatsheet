@@ -1,7 +1,7 @@
-package behavioral.flyweight
+package structural.flyweight
 
-import behavioral.flyweight.Bullet.LargeBullet
-import behavioral.flyweight.Bullet.SmallBullet
+import structural.flyweight.Bullet.LargeBullet
+import structural.flyweight.Bullet.SmallBullet
 
 // Flyweight
 sealed interface Bullet {
