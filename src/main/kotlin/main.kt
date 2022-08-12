@@ -1,5 +1,5 @@
-import creational.factorymethod.factoryMethod
+import structural.bridge.bridge
 
 fun main() {
-    factoryMethod()
+    bridge()
 }

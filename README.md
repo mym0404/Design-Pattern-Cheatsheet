@@ -17,12 +17,12 @@
 - [x] [Prototype](https://blog.naver.com/mym0404/222842448782)
 - [x] [Singleton](https://blog.naver.com/mym0404/222842411627)
 
-## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
+## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/87)
 
 - [x] [What is Structural Pattern](https://blog.naver.com/mym0404/222846151743)
 
 - [x] [Adapter](https://blog.naver.com/mym0404/222846177017)
-- [ ] Bridge 
+- [x] [Bridge](https://blog.naver.com/mym0404/222846997951) 
 - [x] [Composite](https://blog.naver.com/mym0404/222840888281)
 - [x] [Decorator](https://blog.naver.com/mym0404/222841827633)
 - [x] [Facade](https://blog.naver.com/mym0404/222841842528)
