@@ -29,9 +29,9 @@
 - [x] [Flyweight](https://blog.naver.com/mym0404/222841950503)
 - [x] [Proxy](https://blog.naver.com/mym0404/222847740162)
 
-## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25)
+## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
 
-- [ ] What is Behavioral Pattern
+- [x] [What is Behavioral Pattern](https://blog.naver.com/mym0404/222847765240)
 
 - [ ] Chain of Responsibility
 - [x] [Command](https://blog.naver.com/mym0404/222841601512)
