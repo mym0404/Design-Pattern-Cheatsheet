@@ -1,5 +1,5 @@
-import structural.bridge.bridge
+import structural.proxy.proxy
 
 fun main() {
-    bridge()
+    proxy()
 }

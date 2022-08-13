@@ -17,7 +17,7 @@
 - [x] [Prototype](https://blog.naver.com/mym0404/222842448782)
 - [x] [Singleton](https://blog.naver.com/mym0404/222842411627)
 
-## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/87)
+## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 - [x] [What is Structural Pattern](https://blog.naver.com/mym0404/222846151743)
 
@@ -27,7 +27,7 @@
 - [x] [Decorator](https://blog.naver.com/mym0404/222841827633)
 - [x] [Facade](https://blog.naver.com/mym0404/222841842528)
 - [x] [Flyweight](https://blog.naver.com/mym0404/222841950503)
-- [ ] Proxy
+- [x] [Proxy](https://blog.naver.com/mym0404/222847740162)
 
 ## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25)
 
