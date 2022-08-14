@@ -1,5 +1,5 @@
-import structural.proxy.proxy
+import behavioral.chainofresponsibility.chainOfResponsibility
 
 fun main() {
-    proxy()
+    chainOfResponsibility()
 }

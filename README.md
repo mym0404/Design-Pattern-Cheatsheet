@@ -29,11 +29,11 @@
 - [x] [Flyweight](https://blog.naver.com/mym0404/222841950503)
 - [x] [Proxy](https://blog.naver.com/mym0404/222847740162)
 
-## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
+## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/42)
 
 - [x] [What is Behavioral Pattern](https://blog.naver.com/mym0404/222847765240)
 
-- [ ] Chain of Responsibility
+- [x] [Chain of Responsibility](https://blog.naver.com/mym0404/222848131115)
 - [x] [Command](https://blog.naver.com/mym0404/222841601512)
 - [ ] Interpreter
 - [ ] Iterator
