@@ -1,5 +1,5 @@
-import behavioral.chainofresponsibility.chainOfResponsibility
+import behavioral.iterator.iterator
 
 fun main() {
-    chainOfResponsibility()
+    iterator()
 }
