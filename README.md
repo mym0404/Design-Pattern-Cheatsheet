@@ -29,7 +29,7 @@
 - [x] [Flyweight](https://blog.naver.com/mym0404/222841950503)
 - [x] [Proxy](https://blog.naver.com/mym0404/222847740162)
 
-## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/58)
 
 - [x] [What is Behavioral Pattern](https://blog.naver.com/mym0404/222847765240)
 
@@ -37,7 +37,7 @@
 - [x] [Command](https://blog.naver.com/mym0404/222841601512)
 - [ ] Interpreter
 - [x] [Iterator](https://blog.naver.com/mym0404/222848527949)
-- [ ] Mediator
+- [x] [Mediator](https://blog.naver.com/mym0404/222849306460)
 - [ ] Memento
 - [x] [Observer](https://blog.naver.com/mym0404/222841574727)
 - [ ] State

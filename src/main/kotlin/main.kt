@@ -1,5 +1,5 @@
-import behavioral.iterator.iterator
+import behavioral.mediator.mediator
 
 fun main() {
-    iterator()
+    mediator()
 }
