@@ -1,5 +1,5 @@
-import behavioral.state.state
+import behavioral.templatemethod.templateMethod
 
 fun main() {
-    state()
+    templateMethod()
 }
