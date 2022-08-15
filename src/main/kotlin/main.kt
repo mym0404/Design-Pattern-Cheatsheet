@@ -1,5 +1,5 @@
-import behavioral.templatemethod.templateMethod
+import behavioral.visitor.visitor
 
 fun main() {
-    templateMethod()
+    visitor()
 }
