@@ -1,5 +1,5 @@
-import behavioral.memento.memento
+import behavioral.state.state
 
 fun main() {
-    memento()
+    state()
 }
