@@ -22,7 +22,7 @@ The contents are based from
 
 ## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
 
-- [x] [What is Structural Pattern](https://blog.naver.com/mym0404/222846151743)
+- [x] [Intro - What is Structural Pattern](https://blog.naver.com/mym0404/222846151743)
 - [x] [Adapter](https://blog.naver.com/mym0404/222846177017)
 - [x] [Bridge](https://blog.naver.com/mym0404/222846997951) 
 - [x] [Composite](https://blog.naver.com/mym0404/222840888281)
@@ -34,7 +34,7 @@ The contents are based from
 
 ## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
 
-- [x] [What is Behavioral Pattern](https://blog.naver.com/mym0404/222847765240)
+- [x] [Intro - What is Behavioral Pattern](https://blog.naver.com/mym0404/222847765240)
 - [x] [Chain of Responsibility](https://blog.naver.com/mym0404/222848131115)
 - [x] [Command](https://blog.naver.com/mym0404/222841601512)
 - [x] [Interpreter](https://blog.naver.com/mym0404/222849393962)
