@@ -1,5 +1,5 @@
-import behavioral.mediator.mediator
+import behavioral.memento.memento
 
 fun main() {
-    mediator()
+    memento()
 }
