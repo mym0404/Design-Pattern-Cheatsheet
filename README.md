@@ -32,7 +32,7 @@ The contents are based from
 - [x] [Proxy](https://blog.naver.com/mym0404/222847740162)
 - [x] [Outro - Thinking about Structural Pattern](https://blog.naver.com/mym0404/222850327519)
 
-## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
+## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 - [x] [Intro - What is Behavioral Pattern](https://blog.naver.com/mym0404/222847765240)
 - [x] [Chain of Responsibility](https://blog.naver.com/mym0404/222848131115)
@@ -46,7 +46,7 @@ The contents are based from
 - [x] [Strategy](https://blog.naver.com/mym0404/222841499913)
 - [x] [Template Method](https://blog.naver.com/mym0404/222849378306)
 - [x] [Visitor](https://blog.naver.com/mym0404/222849392906)
-- [ ] Outro - Thinking about Behavioral Pattern
+- [x] [Outro - Thinking about Behavioral Pattern](https://blog.naver.com/mym0404/222850337196)
 
 ## Conclusion ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
