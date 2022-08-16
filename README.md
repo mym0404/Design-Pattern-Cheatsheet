@@ -53,6 +53,7 @@ The contents are based from
 - [ ] Conclusion + Book Review
 
 ### TODO
-- [ ] Add "When to use" section at each posting
-- [ ] Remove "Role" section indicator at each posting
-- [ ] Clear Pros & Cons redundant list texts
+- [x] Add "When to use" section for each posting
+- [x] Remove "Role" section indicator for each posting
+- [x] Clear Pros & Cons redundant list texts
+- [x] Add tag for each posting
