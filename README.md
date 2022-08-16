@@ -48,7 +48,7 @@ The contents are based from
 - [x] [Visitor](https://blog.naver.com/mym0404/222849392906)
 - [x] [Outro - Thinking about Behavioral Pattern](https://blog.naver.com/mym0404/222850337196)
 
-## Conclusion ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+## Conclusion ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 - [x] [Conclusion + Book Review](https://blog.naver.com/mym0404/222850339932)
 
