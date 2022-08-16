@@ -50,7 +50,7 @@ The contents are based from
 
 ## Conclusion ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
-- [ ] Conclusion + Book Review
+- [x] [Conclusion + Book Review](https://blog.naver.com/mym0404/222850339932)
 
 ### TODO
 - [x] Add "When to use" section for each posting
