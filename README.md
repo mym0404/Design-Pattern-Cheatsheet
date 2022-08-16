@@ -20,7 +20,7 @@ The contents are based from
 - [x] [Singleton](https://blog.naver.com/mym0404/222842411627)
 - [x] [Outro - Thinking about Creational Pattern](https://blog.naver.com/mym0404/222850308647) 
 
-## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
+## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 - [x] [Intro - What is Structural Pattern](https://blog.naver.com/mym0404/222846151743)
 - [x] [Adapter](https://blog.naver.com/mym0404/222846177017)
@@ -30,7 +30,7 @@ The contents are based from
 - [x] [Facade](https://blog.naver.com/mym0404/222841842528)
 - [x] [Flyweight](https://blog.naver.com/mym0404/222841950503)
 - [x] [Proxy](https://blog.naver.com/mym0404/222847740162)
-- [ ] Outro - Thinking about Structural Pattern
+- [x] [Outro - Thinking about Structural Pattern](https://blog.naver.com/mym0404/222850327519)
 
 ## Behavioral ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
 
