@@ -10,7 +10,7 @@ The contents are based from
 
 - [x] [UML Class Diagram](https://blog.naver.com/mym0404/222840876463)
 
-## Creational ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
+## Creational ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 - [x] [Intro - What is Creational Pattern](https://blog.naver.com/mym0404/222844233403)
 - [x] [Abstract Factory](https://blog.naver.com/mym0404/222842458367)
@@ -18,7 +18,7 @@ The contents are based from
 - [x] [Factory Method](https://blog.naver.com/mym0404/222844357913)
 - [x] [Prototype](https://blog.naver.com/mym0404/222842448782)
 - [x] [Singleton](https://blog.naver.com/mym0404/222842411627)
-- [ ] Outro - Thinking about Creational Pattern 
+- [x] [Outro - Thinking about Creational Pattern](https://blog.naver.com/mym0404/222850308647) 
 
 ## Structural ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
 
